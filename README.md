@@ -6,7 +6,7 @@ ZMK configuration for [swept-crkbd](https://github.com/AYM1607/swept-crkbd/) als
 
 This is a WIP layout based on Colemak DHm that includes Spanish accents, and complemented with easy access to development symbols and JS/TS shortcuts.
 
----
+--
 
 ## Menu
 
